@@ -1,0 +1,151 @@
+body {background-color: #242424;
+
+}
+.title
+{
+  font-size: 80px;
+}
+
+.home{
+  width:900px;
+}
+#container{
+  width:10px;
+  margin:14px;
+  margin-top:50px;
+  margin-left:50px;
+  padding bottom:0px;
+}
+
+img {
+  width:400px;
+}
+.columns {
+  width:450px;
+  display: inline-block;
+}
+#container {
+background-color:black;
+width:1000px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top:10px;
+margin-bottom:10px;
+}
+.groupheader {
+  background-color: black;
+  overflow: hidden;
+}
+
+
+.groupheader a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+.groupheader a :hover {
+  background-color: white;
+  color: black;
+}
+.groupheader a.active {
+  background-color: white;
+  color: black;
+}
+
+.texthome{
+  width: auto;
+  font-family: fantasy;
+display: inline-block;
+float: left;
+font-size: 50px;
+margin-left:19px;
+margin-top:23px;
+
+}
+
+
+
+
+
+.homepic{
+  width:245px;
+  display:inline-block;
+  float: center;
+  font-size:19px;
+  margin-left: 35px;
+  margin-top: 23px;
+}
+
+.aboutpic{
+  width: 30px;
+  margin-right: 45px
+}
+
+.pic1
+{width:367px;
+margin-left:245px;}
+
+.camppic{
+  width: 30px;
+  margin-right: 45px;
+}
+
+
+h1 {
+text-align:center;
+font-family: 'Baskervville', serif;
+font-size:300px;
+}
+
+.about-col-1{
+  width: 20px;
+  display:inline-block;
+  float: right;
+  margin-left: 0px;
+  margin-top: 0px;
+  padding-right: 10px;
+}
+
+
+.text{
+  font-family:fantasy;
+  font-size: 300px;
+  margin-top: 1000px;
+  margin-left: 500px;
+
+}
+
+
+.textwar {
+    text-align:left;
+    font-family:"Fantasy";
+    display: inline-block;
+    float: left;
+    font-size: 19px;
+    margin-left:19px;
+    margin-top:23px;
+}
+
+#textAScarletSky{
+  width: 457;
+  text-align:left;
+  font-family:"Fantasy";
+  float: left;
+  font-size: 25px;
+  margin-left:19px;
+  margin-bottom: 23px;
+}
+
+
+.textShindlerslist{
+  text-align:left;
+  font-family:"Fantasy";
+  float: left;
+  font-size: 25px;
+  margin-left:23px;
+  margin-bottom: 23px;
+}
